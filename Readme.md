@@ -63,3 +63,7 @@ Then use it in `<application name="...">`. See the [Touchégg docs](https://gith
 - **Overview doesn't open:** check that **Overview** is bound to `Meta+W` in System Settings > Keyboard > Shortcuts, or change the `<keys>` in the config to match your binding.
 - **Gestures conflict with Plasma's built-in touchpad gestures:** disable one of them.
 - **Alt+Tab swipe does nothing:** make sure Alt+Tab is enabled in System Settings > Window Management > Task Switcher.
+
+
+## Keywords
+kde, kde plasma, touchegg, touchpad gestures, linux touchpad gestures, windows gestures linux, windows touchpad gestures on linux, precision touchpad linux, multitouch gestures, linux multitouch gestures, trackpad gestures linux, linux gestures, swipe gestures, three finger swipe linux, four finger swipe linux, show desktop gesture, switch virtual desktops gesture, plasma x11, kde plasma customization, linux touchpad config
